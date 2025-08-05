@@ -1,6 +1,22 @@
 # Signals from Outer Space
 
--------------------------------
+## Getting Started
+
+**Important: Do not directly clone this repository!**
+
+To work on this challenge, please follow these steps:
+
+1. **Fork this repository** to your own GitHub account by clicking the "Fork" button at the top right of this repository page
+2. **Clone your forked repository** to your local machine:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Outer-Space-Signals.git
+   ```
+
+3. Work on the challenge in your forked repository
+4. Submit your solution by providing a link to your forked repository
+
+This ensures that your work is properly attributed to you and prevents conflicts with the original repository.
 
 ## Directory Structure
 
@@ -11,6 +27,7 @@
 └── src
     └── main.py -- code file
 ```
+
 
 ## The Challenge
 
